@@ -1,0 +1,20 @@
+{
+  "name": "yfix-contract",
+  "version": "1.0.1",
+  "description": "YFIX Finance Contract",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.0.44",
+    "openzeppelin-solidity": "^2.5.1",
+    "truffle-plugin-verify": "^0.4.0"
+  }
+}
